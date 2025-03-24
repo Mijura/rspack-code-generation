@@ -1,7 +1,7 @@
 {
   "name": "rspack-code-generation",
   "version": "1.0.0",
-  "description": "Hello World example demonstrating code generation with a custom Rspack plugin",
+  "description": "This example demonstrates how to use Rspack for generating code at build time and executing it at runtime.",
   "main": "index.js",
   "keywords": [
     "rspack",
