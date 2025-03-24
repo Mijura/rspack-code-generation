@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "Hello World example demonstrating code generation with a custom Rspack plugin",
   "main": "index.js",
+  "keywords": [
+    "rspack",
+    "code-generation",
+    "webpack-alternative",
+    "build-time-code",
+    "javascript",
+    "dynamic-imports",
+    "plugin-development",
+    "web-development"
+  ],
   "scripts": {
     "start": "node dist/bundle.js",
     "build": "rspack build --config rspack.config.js"
@@ -11,7 +21,7 @@
     "type": "git",
     "url": "git+https://github.com/Mijura/rspack-code-generation.git"
   },
-  "author": "Miodrag Vilotijevic",
+  "author": "Miodrag Vilotijević",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mijura/rspack-code-generation/issues"
